@@ -45,7 +45,7 @@ public class Seller implements Serializable {
 		this.name = name;
 	}
 
-	public String getemail() {
+	public String getmail() {
 		return email;
 	}
 
