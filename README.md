@@ -12,8 +12,7 @@ Desenvolvi uma aplicação para gerenciar informações de departamentos usando 
 # clonar repositório
 git clone https://github.com/HiagoSalvador/jdbc-colaboradores.git
 
-# entrar na pasta do projeto back end
-cd backend
+
 ```
 
 
